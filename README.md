@@ -37,7 +37,7 @@ I'm an aspiring Full Stack Engineer with a passion for building impactful web ap
 - 👩 Pronouns: She/her
 
 <!--⚡️ Fun fact... -->
-
+</br>
 
 ## 🛠 Skills and Tools:
 <p align="center">
