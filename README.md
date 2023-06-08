@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20Maggie!&height=90&section=header&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20Maggie!&height=90&section=header&fontSize=40&fontColor=white"/>
 </p>
 
 ## 👩🏻‍💻 About Me
@@ -117,7 +117,7 @@ I'm an aspiring Full Stack Engineer with a passion for building impactful web ap
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maggievillasenor&layout=compact&theme=omni&langs_count=10&width="400")
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggievillasenor&theme=omni&show_icons=true&heigth="100")
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggievillasenor&theme=omni&show_icons=true&heigth="100") -->
 
 <!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
 
