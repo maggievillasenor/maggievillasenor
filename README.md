@@ -43,6 +43,7 @@ I'm an aspiring Full Stack Engineer with a passion for building impactful web ap
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
+
 - **Programming Languages**
 <div>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
