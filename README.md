@@ -15,10 +15,10 @@ I'm an aspiring Full Stack Engineer with a passion for building impactful web ap
 
 - 📫 How to reach me :
 <p align="">
-<a href=""><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Margarita Villaseñor | Gmail" /></a>
+<a href="mailto:margaritavillasenor@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Margarita Villaseñor | Gmail" /></a>
 <a href="https://www.linkedin.com/in/margarita-villasenor"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Margarita Villaseñor | LinkedIn" /></a>
-<a href="https://www.linkedin.com/in/margarita-villasenor"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Margarita Villaseñor | GitHub" /></a>
-<a href="https://www.linkedin.com/in/margarita-villasenor"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Margarita Villaseñor | Hackerran" /></a>
+<a href="https://github.com/maggievillasenor"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Margarita Villaseñor | GitHub" /></a>
+<a href="https://www.hackerrank.com/maggie_villasen1"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Margarita Villaseñor | Hackerran" /></a>
 </p>
 
 <!-- 👩‍💻 I'm currently working on... -->
